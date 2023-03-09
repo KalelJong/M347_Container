@@ -19,4 +19,5 @@
 10. Überprüfen Sie die Liste der gestoppten Container. Stellen Sie sicher, dass der gestoppte Container in der Liste enthalten ist.
     - docker ps -a
 11. Entfernen Sie den gestoppten Container.
+    - docker rm mysqlcontainer
     
